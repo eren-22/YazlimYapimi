@@ -1,0 +1,53 @@
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\SınavSistemi.exe.config
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\SınavSistemi.exe
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\SınavSistemi.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form1.resources
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Properties.Resources.resources
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.csproj.CopyComplete
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.exe
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form3.resources
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form4.resources
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form2.resources
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\Intercom.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\RestSharp.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\Intercom.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\bin\Debug\RestSharp.xml
+C:\Users\Onur\Desktop\Windows Form Projelerim\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form5.resources
+D:\SınavSistemi\SınavSistemi\bin\Debug\SınavSistemi.exe.config
+D:\SınavSistemi\SınavSistemi\bin\Debug\SınavSistemi.exe
+D:\SınavSistemi\SınavSistemi\bin\Debug\SınavSistemi.pdb
+D:\SınavSistemi\SınavSistemi\bin\Debug\EntityFramework.dll
+D:\SınavSistemi\SınavSistemi\bin\Debug\EntityFramework.SqlServer.dll
+D:\SınavSistemi\SınavSistemi\bin\Debug\Intercom.dll
+D:\SınavSistemi\SınavSistemi\bin\Debug\Newtonsoft.Json.dll
+D:\SınavSistemi\SınavSistemi\bin\Debug\RestSharp.dll
+D:\SınavSistemi\SınavSistemi\bin\Debug\EntityFramework.xml
+D:\SınavSistemi\SınavSistemi\bin\Debug\EntityFramework.SqlServer.xml
+D:\SınavSistemi\SınavSistemi\bin\Debug\Intercom.pdb
+D:\SınavSistemi\SınavSistemi\bin\Debug\Newtonsoft.Json.pdb
+D:\SınavSistemi\SınavSistemi\bin\Debug\Newtonsoft.Json.xml
+D:\SınavSistemi\SınavSistemi\bin\Debug\RestSharp.xml
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.csproj.AssemblyReference.cache
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form1.resources
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form2.resources
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form3.resources
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form4.resources
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Form5.resources
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.Properties.Resources.resources
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.csproj.GenerateResource.cache
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.csproj.CoreCompileInputs.cache
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.csproj.CopyComplete
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.exe
+D:\SınavSistemi\SınavSistemi\obj\Debug\SınavSistemi.pdb

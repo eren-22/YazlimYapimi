@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="guvenlikModelStoreContainer" CdmEntityContainer="guvenlikEntities">
+    <EntitySetMapping Name="Table_1">
+      <EntityTypeMapping TypeName="guvenlikModel.Table_1">
+        <MappingFragment StoreEntitySet="Table_1">
+          <ScalarProperty Name="Security" ColumnName="Security" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_SORU">
+      <EntityTypeMapping TypeName="guvenlikModel.TBL_SORU">
+        <MappingFragment StoreEntitySet="TBL_SORU">
+          <ScalarProperty Name="CEVAPLAR" ColumnName="CEVAPLAR" />
+          <ScalarProperty Name="SORULAR" ColumnName="SORULAR" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
